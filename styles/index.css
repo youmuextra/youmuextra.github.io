@@ -1,0 +1,43 @@
+.para_zh_title {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'DFKinBun-W3';
+    font-weight: bold;
+}
+
+.para_zh_title2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'DFPHSMincho-W7';
+}
+
+.para_zh_title2_nocenter {
+    font-size: 50px;
+    font-family: 'DFPHSMincho-W7';
+}
+
+.para_en_title {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'DFPHSMincho-W7';
+}
+
+.para_zh_normal {
+    font-family: '等线 (中文正文)';
+    font-size: 20px;
+}
+
+.border_ud {
+    padding: 10px 0;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.set_margin_top {
+    margin: 30px 0 0 0;
+}
+
+.card {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+}
