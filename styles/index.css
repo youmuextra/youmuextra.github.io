@@ -2,6 +2,7 @@
     text-align: center;
     font-size: 50px;
     font-family: 'DFKinBun-W3';
+    src:url("fonts/DF-KinBun-W3.ttc");
     font-weight: bold;
 }
 
@@ -9,21 +10,25 @@
     text-align: center;
     font-size: 50px;
     font-family: 'DFPHSMincho-W7';
+    src:url("fonts/DF超極太明朝体.TTC");
 }
 
 .para_zh_title2_nocenter {
     font-size: 50px;
     font-family: 'DFPHSMincho-W7';
+    src:url("fonts/DF超極太明朝体.TTC");
 }
 
 .para_en_title {
     text-align: center;
     font-size: 50px;
     font-family: 'DFPHSMincho-W7';
+    src:url("fonts/DF超極太明朝体.TTC");
 }
 
 .para_zh_normal {
     font-family: '等线 (中文正文)';
+    src:url("fonts/Deng.ttf");
     font-size: 20px;
 }
 
