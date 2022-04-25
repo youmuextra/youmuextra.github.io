@@ -17,29 +17,29 @@
 .para_zh_title {
     text-align: center;
     font-size: 50px;
-    font-family: 'DFKinBun-W3';
+    font-family: "DFKinBun-W3";
     font-weight: bold;
 }
 
 .para_zh_title2 {
     text-align: center;
     font-size: 50px;
-    font-family: 'DFPHSMincho-W7';
+    font-family: "DFPHSMincho-W7";
 }
 
 .para_zh_title2_nocenter {
     font-size: 50px;
-    font-family: 'DFPHSMincho-W7';
+    font-family: "DFPHSMincho-W7";
 }
 
 .para_en_title {
     text-align: center;
     font-size: 50px;
-    font-family: 'DFPHSMincho-W7';
+    font-family: "DFPHSMincho-W7";
 }
 
 .para_zh_normal {
-    font-family: '等线 (中文正文)';
+    font-family: "等线 (中文正文)";
     font-size: 20px;
 }
 
